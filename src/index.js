@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { useClickBgColor } from './npms/hook/commonHook';
+// import { useClickBgColor } from './npms/hook/commonHook';
+import {useClickBgColor } from '@djgundam/test-npm'
 
 function App() {
   return (

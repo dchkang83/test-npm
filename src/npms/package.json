@@ -1,6 +1,6 @@
 {
   "name": "@djgundam/test-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "npm test",
   "main": "index.js",
   "scripts": {

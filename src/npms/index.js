@@ -1,3 +1,3 @@
-// import { useClickBgColor } from './hook/commonHook';
+import { useClickBgColor } from './hook/commonHook';
 
-// export {useClickBgColor}
+export {useClickBgColor}
